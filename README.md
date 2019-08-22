@@ -57,7 +57,7 @@ Mein Bus permite guardar datos de los usuarios en una base de datos `Postgresql`
 
 * [David Leonardo Ruiz Carreño](https://github.com/D4v1d98Ru1z) - Estudiante de Ingenieria de Sistemas, Fullstack and AI Developer.
 * [Santiago Jara González](https://github.com/sjg99) - Estudiante de Ingenieria de Sistemas, ASP.NET MVC Developer.
-* [Jorge Armando Morales Sarmiento](https://github.com/JorgeAMS) - Estudiante de Ingenieria de Sistemas, Software Developer.
+* [Jorge Armando Morales Sarmiento](https://github.com/JorgeAMS) - Estudiante de Ingenieria de Sistemas, Python Developer.
 
 
 Licencia
